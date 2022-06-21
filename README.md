@@ -1,4 +1,4 @@
-# Bark-Counter
+# 🐕Bark-Counter
 Simon game made with Javascript
 
 ![image](https://user-images.githubusercontent.com/101783823/166391391-888ab94e-e4c5-4c07-b14d-629413f3d03d.png)
